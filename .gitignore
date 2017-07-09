@@ -1,0 +1,29 @@
+# Build temporary files
+build
+*/build
+
+# LCM generated headers
+bot2-core/lcmtypes/c/
+bot2-core/lcmtypes/cpp/
+bot2-core/lcmtypes/java/
+bot2-core/lcmtypes/python/
+bot2-frames/lcmtypes/c/
+bot2-frames/lcmtypes/cpp/
+bot2-frames/lcmtypes/java/
+bot2-frames/lcmtypes/python/
+bot2-param/lcmtypes/c/
+bot2-param/lcmtypes/cpp/
+bot2-param/lcmtypes/java/
+bot2-param/lcmtypes/python/
+bot2-procman/lcmtypes/c/
+bot2-procman/lcmtypes/cpp/
+bot2-procman/lcmtypes/java/
+bot2-procman/python/src/bot_procman/build_prefix.py
+
+# Others
+bot2-procman/python/src/bot_procman/__init__.py
+*~
+
+# Editors
+tags
+*/tags
